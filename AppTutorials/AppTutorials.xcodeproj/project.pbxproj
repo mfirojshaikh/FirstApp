@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		673DF23E1FEE3D3A000A1F30 /* OtherRootVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 673DF23D1FEE3D3A000A1F30 /* OtherRootVC.swift */; };
 		674AA53D1FEE32DF0022B348 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674AA53C1FEE32DF0022B348 /* AppDelegate.swift */; };
 		674AA53F1FEE32DF0022B348 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674AA53E1FEE32DF0022B348 /* RootViewController.swift */; };
 		674AA5411FEE32DF0022B348 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674AA5401FEE32DF0022B348 /* DataViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		673DF23D1FEE3D3A000A1F30 /* OtherRootVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherRootVC.swift; sourceTree = "<group>"; };
 		674AA5391FEE32DF0022B348 /* AppTutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppTutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		674AA53C1FEE32DF0022B348 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		674AA53E1FEE32DF0022B348 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				674AA53C1FEE32DF0022B348 /* AppDelegate.swift */,
 				674AA53E1FEE32DF0022B348 /* RootViewController.swift */,
+				673DF23D1FEE3D3A000A1F30 /* OtherRootVC.swift */,
 				674AA5401FEE32DF0022B348 /* DataViewController.swift */,
 				674AA5421FEE32DF0022B348 /* ModelController.swift */,
 				674AA5441FEE32DF0022B348 /* Main.storyboard */,
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				673DF23E1FEE3D3A000A1F30 /* OtherRootVC.swift in Sources */,
 				674AA53F1FEE32DF0022B348 /* RootViewController.swift in Sources */,
 				674AA5431FEE32DF0022B348 /* ModelController.swift in Sources */,
 				674AA5411FEE32DF0022B348 /* DataViewController.swift in Sources */,
